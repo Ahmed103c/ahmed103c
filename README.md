@@ -59,7 +59,7 @@ ISIMA · Alternance @ Michelin · Based in France
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed_Chihaoui-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/ton-profil)
-[![Email](https://img.shields.io/badge/Email-contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ton-email@exemple.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed_Rzeigui-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ahmed-rzeigui/)
+[![Email](https://img.shields.io/badge/Email-contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ahmed.rzeigui@etu.isima.fr)
 
 </div>
