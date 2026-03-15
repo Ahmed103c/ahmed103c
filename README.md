@@ -1,23 +1,20 @@
-# Ahmed RZEIGUI
+<div align="center">
 
-**Software Engineering Graduate · Cloud & Platform Operations**  
-ISIMA · Apprenticeship @ Michelin · Based in France
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=800&color=326CE5&center=true&width=500&lines=Cloud+%26+Platform+Engineer;Kafka+%7C+Kubernetes+%7C+.NET;Backend+Engineer)](https://git.io/typing-svg)
 
----
+</div>
 
-## About
+# Ahmed Chihaoui
 
-I'm a final-year software engineering student at ISIMA (France) with hands-on experience
-building and operating production systems at Michelin — migrating a legacy C/MQ
-communication architecture to .NET and Apache Kafka at scale.
+**Software Engineering Graduate · Cloud & Platform Operations**
+ISIMA · Alternance @ Michelin · Based in France
 
-My trajectory is deliberate: I come from backend development and I'm moving
-toward platform & cloud operations. Not as a pivot, but as a natural extension.
+> Solid backend foundation. Moving deliberately toward platform & cloud ops.
+> The engineers who understand both sides ship better systems.
 
 ---
-## Technical Stack
 
-### ☁️ Cloud & Platform Ops
+## ☁️ Cloud & Platform Ops
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -27,14 +24,14 @@ toward platform & cloud operations. Not as a pivot, but as a natural extension.
 ![OpenStack](https://img.shields.io/badge/OpenStack-ED1944?style=flat-square&logo=openstack&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-### 🔀 Messaging & Observability
+## 🔀 Messaging & Observability
 
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white)
 ![Telegraf](https://img.shields.io/badge/Telegraf-0066CC?style=flat-square&logo=influxdb&logoColor=white)
 
-### 🧱 Backend & Languages
+## 🧱 Backend & Languages
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
@@ -44,12 +41,7 @@ toward platform & cloud operations. Not as a pivot, but as a natural extension.
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 
-### 🗄️ Databases
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-
-### ⚙️ CI/CD & Tooling
+## ⚙️ CI/CD & Tooling
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
@@ -57,14 +49,17 @@ toward platform & cloud operations. Not as a pivot, but as a natural extension.
 
 ---
 
-## Focus Right Now
+## 🎯 Focus Right Now
 
-- Deepening cloud-native operational skills on top of a solid backend foundation
-- Exploring platform engineering patterns: GitOps, service mesh, observability at scale
+- 📖 Preparing **CKA** — Kubernetes networking, RBAC, storage, cluster ops
+- ☁️ Platform engineering patterns: GitOps, service mesh, observability at scale
+- 🔧 Building on production Kafka experience from Michelin internship
 
 ---
 
-## Let's connect
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed_Chihaoui-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ahmed-rzeigui/)
-[![Email](https://img.shields.io/badge/Email-contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ahmed.rzeigui@etu.isima.fr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed_Chihaoui-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/ton-profil)
+[![Email](https://img.shields.io/badge/Email-contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ton-email@exemple.com)
+
+</div>
