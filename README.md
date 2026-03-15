@@ -4,7 +4,7 @@
 
 </div>
 
-# Ahmed Chihaoui
+# Ahmed RZEIGUI
 
 **Software Engineering Graduate · Cloud & Platform Operations**
 ISIMA · Alternance @ Michelin · Based in France
